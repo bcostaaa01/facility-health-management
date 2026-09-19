@@ -7,10 +7,5 @@ const LABEL: Record<HealthStatus, string> = {
 };
 
 export function HealthBadge({ status }: { status: HealthStatus }) {
-  return (
-    <span className={`health-badge health-badge--${status}`}>
-      <span className="health-badge__dot" aria-hidden="true" />
-      {LABEL[status]}
-    </span>
-  );
+  return <span className={`pill pill--${status}`}>{LABEL[status]}</span>;
 }

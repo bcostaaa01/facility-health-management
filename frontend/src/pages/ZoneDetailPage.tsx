@@ -1,25 +1,11 @@
-import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
-import { fetchZoneDetail } from '../api/facilityApi';
 import { HealthBadge } from '../components/HealthBadge';
 import { SensorTrendChart } from '../components/SensorTrendChart';
-import type { ZoneDetail } from '../types';
+import { useZoneDetail } from '../hooks/useZoneDetail';
 
 export function ZoneDetailPage() {
   const { zoneId } = useParams<{ zoneId: string }>();
-  const [zone, setZone] = useState<ZoneDetail | null | undefined>(null);
-
-  useEffect(() => {
-    if (!zoneId) return;
-    let cancelled = false;
-    setZone(null);
-    fetchZoneDetail(zoneId).then((result) => {
-      if (!cancelled) setZone(result);
-    });
-    return () => {
-      cancelled = true;
-    };
-  }, [zoneId]);
+  const zone = useZoneDetail(zoneId);
 
   if (zone === null) {
     return <p className="loading">Loading zone...</p>;
@@ -56,19 +42,13 @@ export function ZoneDetailPage() {
           <p className="empty-state">No faults detected in this zone.</p>
         ) : (
           zone.faults.map((fault) => (
-            <article key={fault.id} className={`fault-card fault-card--${fault.severity}`}>
-              <h3>{fault.summary}</h3>
+            <article key={fault.id} className="fault-card">
+              <div className="fault-card__head">
+                <h3>{fault.summary}</h3>
+                <span className={`pill pill--${fault.severity}`}>{fault.severity}</span>
+              </div>
               <p>{fault.explanation}</p>
-              <dl>
-                <div>
-                  <dt>Severity</dt>
-                  <dd>{fault.severity}</dd>
-                </div>
-                <div>
-                  <dt>Estimated cost impact</dt>
-                  <dd>${fault.estimatedCostPerMonth}/mo</dd>
-                </div>
-              </dl>
+              <p className="fault-card__cost">Est. cost impact: ${fault.estimatedCostPerMonth}/mo</p>
             </article>
           ))
         )}

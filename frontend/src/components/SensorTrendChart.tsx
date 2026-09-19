@@ -25,8 +25,9 @@ function formatFullTimestamp(label: React.ReactNode) {
 
 const tooltipStyle = {
   background: 'var(--chart-surface)',
-  border: '1px solid var(--text-primary)',
-  borderRadius: 0,
+  border: '1px solid var(--border)',
+  borderRadius: 6,
+  boxShadow: '0 4px 12px rgba(16, 24, 40, 0.08)',
   color: 'var(--text-primary)',
   fontSize: 12,
   fontFamily: 'var(--mono)',

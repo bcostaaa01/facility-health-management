@@ -77,7 +77,7 @@ export function ImportPage() {
 
   return (
     <div className="import-page">
-      <h1>Import sensor data</h1>
+      <h1 className="page-title">Import sensor data</h1>
       <p className="import-page__intro">
         Load a single-duct AHU CSV export (see <code>data/README.md</code> for the expected columns) and it runs
         through the same threshold rules as the built-in dataset, entirely in your browser. Nothing is uploaded

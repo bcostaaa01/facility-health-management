@@ -1,30 +1,50 @@
 :root {
   color-scheme: light dark;
 
-  --page-bg: #f9f9f7;
-  --surface: #fcfcfb;
-  --chart-surface: #fcfcfb;
-  --text-primary: #0b0b0b;
-  --text-secondary: #52514e;
-  --muted: #898781;
-  --gridline: #e1e0d9;
-  --border: rgba(11, 11, 11, 0.1);
+  --canvas: #f3f4f6;
+  --surface: #ffffff;
+  --chart-surface: #ffffff;
+  --ink: #111827;
+  --text-primary: #111827;
+  --text-secondary: #4b5563;
+  --muted: #9ca3af;
+  --border: #e5e7eb;
+  --gridline: #eef0f3;
+
+  --sidebar-bg: #16181d;
+  --sidebar-text: #9aa1ac;
+  --sidebar-text-active: #ffffff;
+  --sidebar-border: #262930;
+
+  /* Single functional accent - used sparingly for links, active nav, and
+     primary actions. Matches the temperature series color in charts. */
+  --accent: #2a78d6;
+  --accent-ink: #ffffff;
 
   /* Categorical slots, fixed order - see the dataviz palette reference. */
   --series-1: #2a78d6; /* blue - zone temperature */
   --series-2: #eb6834; /* orange - damper position */
   --series-3: #1baf7a; /* aqua - valve open */
 
-  /* Status palette - fixed, never reused for series identity. */
+  /* Status palette - fixed, never reused for series identity. Soft pill
+     variants (tinted background + darkened text) for badges/pills. */
   --status-good: #0ca30c;
+  --status-good-bg: #e3f5e6;
+  --status-good-text: #1c7430;
   --status-warning: #fab219;
+  --status-warning-bg: #fff3d6;
+  --status-warning-text: #92610a;
   --status-critical: #d03b3b;
+  --status-critical-bg: #fde8e8;
+  --status-critical-text: #b42318;
 
   --mono: ui-monospace, 'Cascadia Mono', Consolas, monospace;
+  --radius: 6px;
+  --shadow-sm: 0 1px 2px rgba(16, 24, 40, 0.06);
 
-  font: 16px/1.5 system-ui, 'Segoe UI', Roboto, sans-serif;
+  font: 14px/1.5 -apple-system, system-ui, 'Segoe UI', Roboto, sans-serif;
   color: var(--text-primary);
-  background: var(--page-bg);
+  background: var(--canvas);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -33,18 +53,37 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --page-bg: #0d0d0d;
-    --surface: #1a1a19;
-    --chart-surface: #1a1a19;
-    --text-primary: #ffffff;
-    --text-secondary: #c3c2b7;
-    --muted: #898781;
-    --gridline: #2c2c2a;
-    --border: rgba(255, 255, 255, 0.1);
+    --canvas: #0b0d10;
+    --surface: #16181d;
+    --chart-surface: #16181d;
+    --ink: #f3f4f6;
+    --text-primary: #f3f4f6;
+    --text-secondary: #b0b5bd;
+    --muted: #6b7280;
+    --border: #262930;
+    --gridline: #23262c;
+
+    --sidebar-bg: #0b0d10;
+    --sidebar-text: #8a919c;
+    --sidebar-text-active: #ffffff;
+    --sidebar-border: #1c1e24;
+
+    --accent: #3987e5;
+    --accent-ink: #ffffff;
 
     --series-1: #3987e5;
     --series-2: #d95926;
     --series-3: #199e70;
+
+    --status-good: #22c55e;
+    --status-good-bg: #123822;
+    --status-good-text: #4ade80;
+    --status-warning: #fab219;
+    --status-warning-bg: #3a2c10;
+    --status-warning-text: #f5c451;
+    --status-critical: #f87171;
+    --status-critical-bg: #3a1616;
+    --status-critical-text: #f87171;
   }
 }
 

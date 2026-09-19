@@ -18,7 +18,7 @@ export function ActionList({ zones }: ActionListProps) {
       ) : (
         <ol>
           {actions.map(({ zone, fault }) => (
-            <li key={fault.id + zone.id} className={`action-item action-item--${fault.severity}`}>
+            <li key={fault.id + zone.id} className="action-item">
               <Link to={`/zones/${zone.id}`} className="action-item__link">
                 <span className="action-item__cost">${fault.estimatedCostPerMonth}/mo</span>
                 <span className="action-item__body">
@@ -27,6 +27,7 @@ export function ActionList({ zones }: ActionListProps) {
                   </strong>
                   <span>{fault.summary}</span>
                 </span>
+                <span className={`pill pill--${fault.severity}`}>{fault.severity}</span>
               </Link>
             </li>
           ))}
