@@ -1,0 +1,6252 @@
+[
+  {
+    "id": "lbnl-baseline-zone-1",
+    "name": "Zone 1",
+    "buildingId": "lbnl-baseline",
+    "buildingName": "LBNL SDAHU - Normal Operation",
+    "healthStatus": "healthy",
+    "faults": [],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 73.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 75.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 75.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 75.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 75.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 75.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 75.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 76.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 76.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 66.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 56,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 57,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 72.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 71.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 64,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 71.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 69.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 67.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 72.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 70.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 67.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 62,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 71.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 67.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 67.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 72.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 73.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 73.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 74.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-baseline-zone-2",
+    "name": "Zone 2",
+    "buildingId": "lbnl-baseline",
+    "buildingName": "LBNL SDAHU - Normal Operation",
+    "healthStatus": "healthy",
+    "faults": [],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 66.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 66.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 66.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 65.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 65.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 65.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 65.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 64.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 64.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 64.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 61.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 56,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 57,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 69.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 74.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 72.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 64,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 70.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 68.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 67.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 67.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 71.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 72.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 70.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 62,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 69.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 67.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 68.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 69.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 69.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 68.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 68.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 68.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-baseline-zone-3",
+    "name": "Zone 3",
+    "buildingId": "lbnl-baseline",
+    "buildingName": "LBNL SDAHU - Normal Operation",
+    "healthStatus": "healthy",
+    "faults": [],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 66.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 66.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 66.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 65.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 65.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 64.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 64.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 64.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 64.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 62.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 56,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 57,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 73.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 72.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 64,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 71.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 70.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 70.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 68.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 69.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 68.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 67.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 62,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 69.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 69.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 69.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 69.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 69.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 68.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 68.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 68.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-baseline-zone-4",
+    "name": "Zone 4",
+    "buildingId": "lbnl-baseline",
+    "buildingName": "LBNL SDAHU - Normal Operation",
+    "healthStatus": "healthy",
+    "faults": [],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 66.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 66.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 66.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 65.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 65.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 66.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 66.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 66.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 66.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 66.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 66.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 65.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 65.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 62.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 56,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 57,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 68.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 73.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 72.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 64,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 71.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 69.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 68.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 70.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 69.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 68.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 62,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 71.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 71.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 71.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 70.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 69.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 69.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 69.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 68.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-baseline-zone-5",
+    "name": "Zone 5",
+    "buildingId": "lbnl-baseline",
+    "buildingName": "LBNL SDAHU - Normal Operation",
+    "healthStatus": "healthy",
+    "faults": [],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 67.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 67.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 66.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 66.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 65.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 65.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 66.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 68.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 70.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 72.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 72.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 72.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 72.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 72.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 71.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 71.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 70.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 70.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 69.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 69.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 69.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 68.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 67.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 67.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 67.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 67.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 63.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 56,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 64.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 57,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 71.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 72.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 64,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 71.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 70.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 70.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 69.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 69.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 68.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 67.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 62,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 69.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 69.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 69.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 69.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 69.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 68.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 68.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 68.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-damper-stuck-zone-1",
+    "name": "Zone 1",
+    "buildingId": "lbnl-damper-stuck",
+    "buildingName": "LBNL SDAHU - Damper Stuck Case",
+    "healthStatus": "critical",
+    "faults": [
+      {
+        "id": "stuck_damper",
+        "type": "stuck_damper",
+        "severity": "high",
+        "summary": "Outside-air damper stuck near 75% open",
+        "explanation": "OA_DMPR (the outside-air damper's actual position) holds at 75% open for the entire window while OA_DMPR_DM (the commanded position sent by the controller) stays at 0%. The damper isn't responding to the control signal at all, so the AHU keeps pulling in far more outside air than it should.",
+        "detectedAt": "2018-01-03T02:00:00Z",
+        "estimatedCostPerMonth": 410
+      }
+    ],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 73.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 75.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 75.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 75.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 75.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 75.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 75.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 75.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 76.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 64.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 67.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 69.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 69.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 69.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 69.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 69.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 69.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 69.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 69.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 69.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 69.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 69.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 72.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 73.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 74.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 74.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-damper-stuck-zone-2",
+    "name": "Zone 2",
+    "buildingId": "lbnl-damper-stuck",
+    "buildingName": "LBNL SDAHU - Damper Stuck Case",
+    "healthStatus": "critical",
+    "faults": [
+      {
+        "id": "stuck_damper",
+        "type": "stuck_damper",
+        "severity": "high",
+        "summary": "Outside-air damper stuck near 75% open",
+        "explanation": "OA_DMPR (the outside-air damper's actual position) holds at 75% open for the entire window while OA_DMPR_DM (the commanded position sent by the controller) stays at 0%. The damper isn't responding to the control signal at all, so the AHU keeps pulling in far more outside air than it should.",
+        "detectedAt": "2018-01-03T02:00:00Z",
+        "estimatedCostPerMonth": 410
+      }
+    ],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 66.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 66.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 66.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 65.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 65.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 65.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 65.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 64.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 64.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 64.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 59.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 63.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 70.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 74.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 72.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 70.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 67.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 69.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 70.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 70.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 69.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 69.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 69.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 69.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 69.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-damper-stuck-zone-3",
+    "name": "Zone 3",
+    "buildingId": "lbnl-damper-stuck",
+    "buildingName": "LBNL SDAHU - Damper Stuck Case",
+    "healthStatus": "critical",
+    "faults": [
+      {
+        "id": "stuck_damper",
+        "type": "stuck_damper",
+        "severity": "high",
+        "summary": "Outside-air damper stuck near 75% open",
+        "explanation": "OA_DMPR (the outside-air damper's actual position) holds at 75% open for the entire window while OA_DMPR_DM (the commanded position sent by the controller) stays at 0%. The damper isn't responding to the control signal at all, so the AHU keeps pulling in far more outside air than it should.",
+        "detectedAt": "2018-01-03T02:00:00Z",
+        "estimatedCostPerMonth": 410
+      }
+    ],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 66.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 66.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 66.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 65.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 65.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 65.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 64.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 64.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 64.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 64.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 61.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 62.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 73.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 73.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 72.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 70.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 69.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 67.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 68.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 69.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 69.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 69.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 69.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 69.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 69.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 68.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-damper-stuck-zone-4",
+    "name": "Zone 4",
+    "buildingId": "lbnl-damper-stuck",
+    "buildingName": "LBNL SDAHU - Damper Stuck Case",
+    "healthStatus": "critical",
+    "faults": [
+      {
+        "id": "stuck_damper",
+        "type": "stuck_damper",
+        "severity": "high",
+        "summary": "Outside-air damper stuck near 75% open",
+        "explanation": "OA_DMPR (the outside-air damper's actual position) holds at 75% open for the entire window while OA_DMPR_DM (the commanded position sent by the controller) stays at 0%. The damper isn't responding to the control signal at all, so the AHU keeps pulling in far more outside air than it should.",
+        "detectedAt": "2018-01-03T02:00:00Z",
+        "estimatedCostPerMonth": 410
+      }
+    ],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 66.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 66.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 66.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 66.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 65.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 65.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 66.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 66.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 66.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 66.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 66.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 66.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 66.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 65.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 65.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 65.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 61.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 62.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 68.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 73.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 73.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 71.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 69.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 66.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 67.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 69.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 70.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 69.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 69.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 69.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 69.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 69.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 68.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-damper-stuck-zone-5",
+    "name": "Zone 5",
+    "buildingId": "lbnl-damper-stuck",
+    "buildingName": "LBNL SDAHU - Damper Stuck Case",
+    "healthStatus": "critical",
+    "faults": [
+      {
+        "id": "stuck_damper",
+        "type": "stuck_damper",
+        "severity": "high",
+        "summary": "Outside-air damper stuck near 75% open",
+        "explanation": "OA_DMPR (the outside-air damper's actual position) holds at 75% open for the entire window while OA_DMPR_DM (the commanded position sent by the controller) stays at 0%. The damper isn't responding to the control signal at all, so the AHU keeps pulling in far more outside air than it should.",
+        "detectedAt": "2018-01-03T02:00:00Z",
+        "estimatedCostPerMonth": 410
+      }
+    ],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 67.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 67.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 66.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 66.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 65.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 65.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 66.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 68.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 70.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 72.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 72.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 72.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 72.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 72.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 71.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 71.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 70.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 70.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 69.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 69.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 69.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 68.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 67.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 67.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 67.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 67.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 63.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 62.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 66.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 70.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 73.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 73.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 71.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 67.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 68.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 69.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 69.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 70.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 69.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 69.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 68.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 68.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 75,
+        "valveOpenPct": 0,
+        "mode": "idle"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-coil-leak-zone-1",
+    "name": "Zone 1",
+    "buildingId": "lbnl-coil-leak",
+    "buildingName": "LBNL SDAHU - Coil Valve Leak Case",
+    "healthStatus": "warning",
+    "faults": [
+      {
+        "id": "valve_leak_by",
+        "type": "valve_leak_by",
+        "severity": "medium",
+        "summary": "Chilled water valve leaking by when it should be shut",
+        "explanation": "CHWC_VLV (the chilled water coil valve's actual position) sits around 10% open even though CHWC_VLV_DM (the commanded position) is 0%. A small amount of chilled water keeps passing through, quietly cooling the supply air and wasting energy while the coil appears fully closed.",
+        "detectedAt": "2018-01-03T02:00:00Z",
+        "estimatedCostPerMonth": 180
+      }
+    ],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 73.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 75.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 75.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 75.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 75.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 75.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 76.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 75.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 75.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 76.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 76.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 76.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 66.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 56,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 57,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 71.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 71.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 70.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 70.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 70.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 55,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 70.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 68.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 67.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 59,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 69.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 58,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 67.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 68.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 68.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 72.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 73.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 73.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 73.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-coil-leak-zone-2",
+    "name": "Zone 2",
+    "buildingId": "lbnl-coil-leak",
+    "buildingName": "LBNL SDAHU - Coil Valve Leak Case",
+    "healthStatus": "warning",
+    "faults": [
+      {
+        "id": "valve_leak_by",
+        "type": "valve_leak_by",
+        "severity": "medium",
+        "summary": "Chilled water valve leaking by when it should be shut",
+        "explanation": "CHWC_VLV (the chilled water coil valve's actual position) sits around 10% open even though CHWC_VLV_DM (the commanded position) is 0%. A small amount of chilled water keeps passing through, quietly cooling the supply air and wasting energy while the coil appears fully closed.",
+        "detectedAt": "2018-01-03T02:00:00Z",
+        "estimatedCostPerMonth": 180
+      }
+    ],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 66.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 66.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 66.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 65.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 65.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 65.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 65.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 64.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 64.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 64.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 61.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 56,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 57,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 69.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 73.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 72.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 70.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 67.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 67.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 68.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 55,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 71.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 72.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 70.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 59,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 69.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 58,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 67.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 68.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 69.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 69.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 68.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 68.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 68.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-coil-leak-zone-3",
+    "name": "Zone 3",
+    "buildingId": "lbnl-coil-leak",
+    "buildingName": "LBNL SDAHU - Coil Valve Leak Case",
+    "healthStatus": "warning",
+    "faults": [
+      {
+        "id": "valve_leak_by",
+        "type": "valve_leak_by",
+        "severity": "medium",
+        "summary": "Chilled water valve leaking by when it should be shut",
+        "explanation": "CHWC_VLV (the chilled water coil valve's actual position) sits around 10% open even though CHWC_VLV_DM (the commanded position) is 0%. A small amount of chilled water keeps passing through, quietly cooling the supply air and wasting energy while the coil appears fully closed.",
+        "detectedAt": "2018-01-03T02:00:00Z",
+        "estimatedCostPerMonth": 180
+      }
+    ],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 66.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 66.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 66.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 65.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 65.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 65.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 64.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 64.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 64.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 64.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 64.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 64.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 62.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 56,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 57,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 72.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 72.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 71.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 70.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 70.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 69.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 55,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 69.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 68.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 67.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 59,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 69.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 58,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 69.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 69.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 69.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 69.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 68.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 67.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-coil-leak-zone-4",
+    "name": "Zone 4",
+    "buildingId": "lbnl-coil-leak",
+    "buildingName": "LBNL SDAHU - Coil Valve Leak Case",
+    "healthStatus": "warning",
+    "faults": [
+      {
+        "id": "valve_leak_by",
+        "type": "valve_leak_by",
+        "severity": "medium",
+        "summary": "Chilled water valve leaking by when it should be shut",
+        "explanation": "CHWC_VLV (the chilled water coil valve's actual position) sits around 10% open even though CHWC_VLV_DM (the commanded position) is 0%. A small amount of chilled water keeps passing through, quietly cooling the supply air and wasting energy while the coil appears fully closed.",
+        "detectedAt": "2018-01-03T02:00:00Z",
+        "estimatedCostPerMonth": 180
+      }
+    ],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 66.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 66.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 66.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 65.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 65.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 66.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 66.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 66.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 66.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 66.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 66.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 66.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 66.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 65.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 65.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 65.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 65.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 65.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 65.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 62.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 56,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 64.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 57,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 68.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 73.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 72.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 70.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 69.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 67.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 67.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 55,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 70.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 69.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 69.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 59,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 70.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 58,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 72.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 71.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 70.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 69.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 68.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 68.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      }
+    ]
+  },
+  {
+    "id": "lbnl-coil-leak-zone-5",
+    "name": "Zone 5",
+    "buildingId": "lbnl-coil-leak",
+    "buildingName": "LBNL SDAHU - Coil Valve Leak Case",
+    "healthStatus": "warning",
+    "faults": [
+      {
+        "id": "valve_leak_by",
+        "type": "valve_leak_by",
+        "severity": "medium",
+        "summary": "Chilled water valve leaking by when it should be shut",
+        "explanation": "CHWC_VLV (the chilled water coil valve's actual position) sits around 10% open even though CHWC_VLV_DM (the commanded position) is 0%. A small amount of chilled water keeps passing through, quietly cooling the supply air and wasting energy while the coil appears fully closed.",
+        "detectedAt": "2018-01-03T02:00:00Z",
+        "estimatedCostPerMonth": 180
+      }
+    ],
+    "sensorTrend": [
+      {
+        "timestamp": "2018-01-01T01:00:00Z",
+        "zoneTempF": 67.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T02:00:00Z",
+        "zoneTempF": 67.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T03:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T04:00:00Z",
+        "zoneTempF": 66.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T05:00:00Z",
+        "zoneTempF": 66.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T06:00:00Z",
+        "zoneTempF": 66.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T07:00:00Z",
+        "zoneTempF": 65.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T08:00:00Z",
+        "zoneTempF": 65.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T09:00:00Z",
+        "zoneTempF": 66.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T10:00:00Z",
+        "zoneTempF": 68.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T11:00:00Z",
+        "zoneTempF": 70.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T12:00:00Z",
+        "zoneTempF": 72.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T13:00:00Z",
+        "zoneTempF": 72.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T14:00:00Z",
+        "zoneTempF": 72.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T15:00:00Z",
+        "zoneTempF": 72.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T16:00:00Z",
+        "zoneTempF": 72.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T17:00:00Z",
+        "zoneTempF": 71.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T18:00:00Z",
+        "zoneTempF": 71.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T19:00:00Z",
+        "zoneTempF": 70.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T20:00:00Z",
+        "zoneTempF": 70.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T21:00:00Z",
+        "zoneTempF": 69.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T22:00:00Z",
+        "zoneTempF": 69.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-01T23:00:00Z",
+        "zoneTempF": 69.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T00:00:00Z",
+        "zoneTempF": 68.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T01:00:00Z",
+        "zoneTempF": 68.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T02:00:00Z",
+        "zoneTempF": 67.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T03:00:00Z",
+        "zoneTempF": 67.6,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T04:00:00Z",
+        "zoneTempF": 67.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T05:00:00Z",
+        "zoneTempF": 67.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T06:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T07:00:00Z",
+        "zoneTempF": 63.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 56,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T08:00:00Z",
+        "zoneTempF": 64.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 57,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T09:00:00Z",
+        "zoneTempF": 67.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 61,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T10:00:00Z",
+        "zoneTempF": 70.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T11:00:00Z",
+        "zoneTempF": 70.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T12:00:00Z",
+        "zoneTempF": 70.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 63,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T13:00:00Z",
+        "zoneTempF": 70.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T14:00:00Z",
+        "zoneTempF": 70.2,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T15:00:00Z",
+        "zoneTempF": 69.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 55,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T16:00:00Z",
+        "zoneTempF": 71.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 59,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T17:00:00Z",
+        "zoneTempF": 71.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T18:00:00Z",
+        "zoneTempF": 70.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 10,
+        "valveOpenPct": 59,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T19:00:00Z",
+        "zoneTempF": 70.4,
+        "setpointF": 55.2,
+        "damperPositionPct": 58,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T20:00:00Z",
+        "zoneTempF": 68.7,
+        "setpointF": 55.2,
+        "damperPositionPct": 60,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T21:00:00Z",
+        "zoneTempF": 67.3,
+        "setpointF": 55.2,
+        "damperPositionPct": 61,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T22:00:00Z",
+        "zoneTempF": 67.9,
+        "setpointF": 55.2,
+        "damperPositionPct": 62,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-02T23:00:00Z",
+        "zoneTempF": 68.1,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T00:00:00Z",
+        "zoneTempF": 68.0,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T01:00:00Z",
+        "zoneTempF": 67.8,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      },
+      {
+        "timestamp": "2018-01-03T02:00:00Z",
+        "zoneTempF": 67.5,
+        "setpointF": 55.2,
+        "damperPositionPct": 0,
+        "valveOpenPct": 10,
+        "mode": "cooling"
+      }
+    ]
+  }
+]

@@ -69,7 +69,7 @@ export function SensorTrendChart({ readings }: { readings: SensorReading[] }) {
             <Line
               type="monotone"
               dataKey="setpointF"
-              name="Setpoint"
+              name="Supply air setpoint"
               stroke="var(--muted)"
               strokeDasharray="4 4"
               dot={false}
