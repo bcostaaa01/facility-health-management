@@ -1,0 +1,65 @@
+:root {
+  color-scheme: light dark;
+
+  --page-bg: #f9f9f7;
+  --surface: #fcfcfb;
+  --chart-surface: #fcfcfb;
+  --text-primary: #0b0b0b;
+  --text-secondary: #52514e;
+  --muted: #898781;
+  --gridline: #e1e0d9;
+  --border: rgba(11, 11, 11, 0.1);
+
+  /* Categorical slots, fixed order - see the dataviz palette reference. */
+  --series-1: #2a78d6; /* blue - zone temperature */
+  --series-2: #eb6834; /* orange - damper position */
+  --series-3: #1baf7a; /* aqua - valve open */
+
+  /* Status palette - fixed, never reused for series identity. */
+  --status-good: #0ca30c;
+  --status-warning: #fab219;
+  --status-critical: #d03b3b;
+
+  --mono: ui-monospace, 'Cascadia Mono', Consolas, monospace;
+
+  font: 16px/1.5 system-ui, 'Segoe UI', Roboto, sans-serif;
+  color: var(--text-primary);
+  background: var(--page-bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --page-bg: #0d0d0d;
+    --surface: #1a1a19;
+    --chart-surface: #1a1a19;
+    --text-primary: #ffffff;
+    --text-secondary: #c3c2b7;
+    --muted: #898781;
+    --gridline: #2c2c2a;
+    --border: rgba(255, 255, 255, 0.1);
+
+    --series-1: #3987e5;
+    --series-2: #d95926;
+    --series-3: #199e70;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0;
+}
